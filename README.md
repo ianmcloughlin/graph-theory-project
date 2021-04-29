@@ -1,6 +1,6 @@
 # Graph Theory Project 2021
 
-## Due: last commit on or before 30<sup>th</sup> April 2021
+## Due: last commit on or before 3<sup>rd</sup> May 2021
 
 
 These are the instructions for the Graph Theory project in 2021.
